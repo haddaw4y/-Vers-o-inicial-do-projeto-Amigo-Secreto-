@@ -60,4 +60,4 @@ cd amigo-secreto
 3. Abra o arquivo `index.html` no seu navegador preferido ou use um servidor local como Live Server do VS Code.
 ---
 
-⌨️ com ❤️ por [Seu Nome](https://github.com/haddaw4y)
+⌨️ com ❤️ por [Fernando](https://github.com/haddaw4y)
