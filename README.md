@@ -1,5 +1,4 @@
 ﻿# -Vers-o-inicial-do-projeto-Amigo-Secreto-
-# -Vers-o-inicial-do-projeto-Amigo-Secreto-
 # Amigo Secreto 🎁
 
 Um aplicativo web simples para sorteio de amigo secreto, desenvolvido com HTML, CSS e JavaScript puro.
